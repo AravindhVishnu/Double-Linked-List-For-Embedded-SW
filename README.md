@@ -10,10 +10,10 @@ The double linked list is encapsulated in a static library.
 An example application which implements a team member directory is used to provide an example
 of how the double linked list can be used.
 
-Tools:
-Development environment: Visual Studio Code
-Build utility: GNU make
-Compiler: G++/GCC
+Tools: 
+Development environment: Visual Studio Code 
+Build utility: GNU make 
+Compiler: G++/GCC 
 Debugger: GDB
 
 Instructions: 
