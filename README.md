@@ -11,10 +11,10 @@ An example application which implements a team member directory is used to provi
 of how the double linked list can be used.
 
 Tools: 
-Development environment: Visual Studio Code 
-Build utility: GNU make 
-Compiler: G++/GCC 
-Debugger: GDB
+ - Development environment: Visual Studio Code 
+ - Build utility: GNU make 
+ - Compiler: G++/GCC 
+ - Debugger: GDB
 
 Instructions: 
 Rename all vscode folders to .vscode
