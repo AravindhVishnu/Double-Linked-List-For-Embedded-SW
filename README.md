@@ -7,12 +7,12 @@ uses static memory allocation of all the available list items.
 
 The double linked list is encapsulated in a static library.
 
-An example application which implements a team member directory is used to provide an example
+An example application which implements a team member directory is included to provide an example
 of how the double linked list can be used.
 
 Tools: 
  - Development environment: Visual Studio Code 
- - Build utility: GNU make 
+ - Build utility: GNU Make 
  - Compiler: G++/GCC 
  - Debugger: GDB
 
