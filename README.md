@@ -18,3 +18,6 @@ Tools:
 
 Instructions: 
 Rename all vscode folders to .vscode
+
+Note:
+Tested on Linux Mint
