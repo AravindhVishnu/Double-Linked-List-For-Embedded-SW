@@ -1,5 +1,5 @@
 # Double-Linked-List-For-Embedded-SW
-Double linked list implementation for embedded SW
+Double Linked List implementation for Embedded SW
 
 Description:
 The use of dynamic memory allocation is not recommended in embedded SW, so this implementation
