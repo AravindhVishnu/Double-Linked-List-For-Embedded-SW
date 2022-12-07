@@ -23,7 +23,7 @@ void ExampleApplication::printOptions()
     std::cout << "\n";
 }
 
-// Description: Print the number nd name of all team members
+// Description: Print the number and name of all team members
 void ExampleApplication::printTeamMembers()
 {
     if (_list.isListEmpty() == true)
