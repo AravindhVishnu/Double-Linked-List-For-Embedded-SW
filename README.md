@@ -2,8 +2,9 @@
 Double Linked List implementation for Embedded SW
 
 Description:
-The use of dynamic memory allocation is not recommended in embedded SW, so this implementation
-uses static memory allocation of all the available list items.
+The use of dynamic memory allocation is not recommended in embedded SW 
+(MISRA C++ 2008, 18-4-1 - Dynamic heap memory allocation shall not be used), 
+so this implementation uses static memory allocation of all the available list items.
 
 The double linked list is encapsulated in a static library.
 
