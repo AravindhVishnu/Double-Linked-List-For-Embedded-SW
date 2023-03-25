@@ -8,7 +8,7 @@ so this implementation uses static memory allocation of all the available list i
 
 The double linked list is encapsulated in a static library.
 
-An example application which implements a team member directory is included to provide an example
+An example application which implements a team member directory is included to provide info
 of how the double linked list can be used.
 
 Tools: 
